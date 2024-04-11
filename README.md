@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @JeffreyGroves
-- 👀 I’m interested in helping people
-- 💞️ I’m looking to collaborate on helping people
 - 📫 How to reach me: drop me a note here.
 
 <!---
